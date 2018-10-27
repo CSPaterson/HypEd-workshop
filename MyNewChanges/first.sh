@@ -1,1 +1,1 @@
-echo kittens are super cute
+echo kittens are not cute
