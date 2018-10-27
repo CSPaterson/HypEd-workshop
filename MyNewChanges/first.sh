@@ -1,1 +1,1 @@
-echo kittens are super cute
+echo all animals are awesome
